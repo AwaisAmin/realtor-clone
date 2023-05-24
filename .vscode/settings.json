@@ -1,0 +1,4 @@
+{
+  "javascript.format.placeOpenBraceOnNewLineForFunctions": false,
+  "html.format.maxPreserveNewLines": null
+}
